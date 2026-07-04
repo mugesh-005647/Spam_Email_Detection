@@ -22,7 +22,7 @@ A web application that predicts whether an email or SMS is **Spam** or **Not Spa
 
 ## 🌐 Live Demo
 
-https://your-app-name.streamlit.app
+https://spamemaildetection-tddvxaxwoftsfcb3d4ebzh.streamlit.app/
 
 ## 📂 Project Structure
 
