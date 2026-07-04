@@ -20,17 +20,25 @@ A web application that predicts whether an email or SMS is **Spam** or **Not Spa
 - Streamlit
 - Pickle
 
+## 🌐 Live Demo
+
+https://your-app-name.streamlit.app
+
 ## 📂 Project Structure
 
 ```
 Spam_Email_Detection/
+│── screenshots
+│── .gitignore
 │── app.py
-│── train_model.py
-│── spam.csv
-│── spam_model.pkl
-│── vectorizer.pkl
-│── requirements.txt
 │── README.md
+│── requirements.txt
+│── spam_model.pkl
+│── spam.csv
+│── train_model.py
+│── vectorizer.pkl
+
+
 ```
 
 ## ▶️ Installation
